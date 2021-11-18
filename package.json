@@ -1,0 +1,16 @@
+{
+  "name": "confetti",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "source": "src/index.html",
+  "scripts": {
+    "start": "parcel",
+    "build": "parcel build"
+  },
+  "author": "Robert Daszkiewicz",
+  "license": "ISC",
+  "devDependencies": {
+    "parcel": "^2.0.1"
+  }
+}
